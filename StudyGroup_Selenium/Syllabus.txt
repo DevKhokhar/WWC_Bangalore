@@ -1,0 +1,35 @@
+Workshop 1:
+
+Introduction
+Selenium Introduction
+Selenium vs other automation tools
+Advantages of selenium over other tools
+Technologies involved in selenium
+Selenium IDE
+Recording and Playing Back Test Cases
+Test Case Verification
+Working with Test Suites
+Test Case HTML Reports
+Selenium RC vs Web Driver
+Tools setup to gear up with Web Driver
+Q&A
+
+
+Workshop 2:
+
+Tools used to locate elements on a browser
+Installing Firefox
+Installing firebug and fire path and fire finder add-ons in Firefox
+HTML Basics
+Locators
+ID
+Name
+Filters
+Xpath
+CSS
+DOM
+How to locate HTML elements using Xpath and Css
+Know more about Xpath and CSS using Firepath and Firebug
+Learning more about Xpath and CSS techniques
+Q&A
+
