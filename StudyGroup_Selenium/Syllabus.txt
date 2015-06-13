@@ -9,7 +9,6 @@ Selenium IDE
 Recording and Playing Back Test Cases
 Test Case Verification
 Working with Test Suites
-Test Case HTML Reports
 Selenium RC vs Web Driver
 Tools setup to gear up with Web Driver
 Q&A
@@ -32,4 +31,15 @@ How to locate HTML elements using Xpath and Css
 Know more about Xpath and CSS using Firepath and Firebug
 Learning more about Xpath and CSS techniques
 Q&A
+
+Workshop3
+
+Writing more test cases using all types of locators.
+
+Workshop4
+
+Learning Git 
+Refactoring the work3 automation code base
+Bringing page object pattern
+
 
